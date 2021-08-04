@@ -1,2 +1,2 @@
 @scheduled
-hello rate(1 minute)
+hello rate(1 week)
